@@ -1,4 +1,8 @@
 this is file a
 this is first change in a
+<<<<<<< HEAD
 this is second change in a
 
+=======
+this is third change in a
+>>>>>>> 6ec3709f5dcf871c26721142cef653e198d2dac1
